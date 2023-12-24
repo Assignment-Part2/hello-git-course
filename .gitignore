@@ -1,5 +1,5 @@
 Testing GitLab settings. Ignore this file
 
- bmjdv.in
- crdds.pyc
- pnyni.out
+*.in
+*.out
+*.pyc
